@@ -4,4 +4,5 @@ source 'https://rubygems.org'
 gem 'tsort'
 gem 'prism'
 # Lock RDoc
-gem 'rdoc', '8.0.0'
+gem 'rdoc', '8.1.0'
+gem 'httparty', '~> 0.21.0'
